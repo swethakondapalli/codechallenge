@@ -7,6 +7,7 @@ searchform.addEventListener("submit", async function(e)
                             const res=  await axios.get('http://api.tvmaze.com/search/shows', config);
                             console.log(res.data);
                             makeImages(res.data);
+                            
                                                                  
                             })
 
