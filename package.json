@@ -1,0 +1,17 @@
+{
+  "name": "guesslangapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Swetha K",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "i": "^0.3.6",
+    "lang": "^0.1.13",
+    "langs": "^2.0.0"
+  }
+}
